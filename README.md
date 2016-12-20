@@ -1,3 +1,3 @@
-# VRL-Tutorial-Plugin-01
+# VRL-VolumeCalculator-Plugin
 
-Tutorial Plugin Project
+VolumeCalculator project 
