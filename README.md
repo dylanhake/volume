@@ -1,3 +1,3 @@
-# VRL-Tutorial-Plugin-01
+# VolumeCalculator
 
-Tutorial Plugin Project
+Undergrad project which calculated the volume of tetrahedral meshes by different approaches.
